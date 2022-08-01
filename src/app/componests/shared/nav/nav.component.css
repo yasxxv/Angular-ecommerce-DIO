@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+      }
+
+.nav{
+    background: #410004;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 6rem;    
+}
+.menu{
+    display: flex;
+
+}
+.link{
+    display: block;
+    color: white;
+    padding: 1rem;
+    font-size: 2rem;
+}

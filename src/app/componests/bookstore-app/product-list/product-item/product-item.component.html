@@ -1,0 +1,20 @@
+<div class="card ">
+  <img class="img" [src]="livro.image" alt="#">
+  <div class="conteudo">
+    <div class="body">
+      <p class="text title">{{ livro.title }}</p>
+      <p class="text subtitle">{{ livro.subtitle }}</p>
+      
+      
+
+    </div>
+      <div class="info">
+        <p class="text isbn13">{{ livro.isbn13 }}</p>
+        <p class="text price">{{livro.priceInNumber | currency:'BRL'}}</p>
+        <div class="btn-group">
+          <button type="button" class="btn btn-sm btn-primary btn-co">Comprar</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary">Detalhes</button>
+        </div>
+    </div>
+  </div>
+</div>

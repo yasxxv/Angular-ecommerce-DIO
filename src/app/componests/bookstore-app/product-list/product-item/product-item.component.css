@@ -1,0 +1,79 @@
+.card{
+    font-size: 2rem;
+    padding: 0;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    /* min-width: 33rem;
+    min-height: 45rem;
+    margin: 0 2rem  2rem ; */
+    background-color: #410004b8;
+    color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+
+.img{
+    width: 60%;
+   
+}
+
+.conteudo{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.body{
+    height: 9rem;
+    justify-content: space-around;
+    
+}
+
+
+
+.title{
+    font-family: 'Ruda', sans-serif;
+   
+}
+
+.subtitle{
+    font-size: 1.5rem;
+}
+
+.isbn13{
+    font-size: 1rem;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.info{
+    font-size: 3rem;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+.price{
+size: 10rem;
+font-style:italic;
+padding: 0.5rem 0;
+}
+
+.btn{
+    font-size: 2rem;
+}
+
+.btn-co {
+    background-color: beige;
+    border: none;
+    color: #410004b8;
+}
+
+.btn-de{
+    color: white;
+    border: solid 5px;
+}
+
+
