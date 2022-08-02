@@ -4,7 +4,7 @@
 
 ## ✏️ Sobre o projeto
 
-Como proposto pela orientadora, este repositório traz a solução para o front-end de um e-commerce em angular.
+Como proposto pela orientadora Nathalia do Santander Bootcamp Fullstack Developer na Digital Innovation One, este repositório traz a solução para o front-end de um e-commerce em angular.
 
 ## 👀 Obs:
 
