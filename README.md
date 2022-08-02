@@ -1,31 +1,29 @@
-# BookStoreFront
+<img src="src/assets/img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
 
-## Informações referentes ao projeto
-- API utilizada: https://api.itbook.store/#api-overview
+>🛒 Ecommerce BookStore em Angular
 
-## Informações referentes ao Angular
-- Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+## ✏️ Sobre o projeto
 
-### Servidor de desenvolvimento
+Como proposto pela orientadora, este repositório traz a solução para o front-end de um e-commerce em angular.
 
-- Execute `ng serve` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+## 👀 Obs:
 
-### Estrutura de código
+O API utilizado não foi o mesmo proposto pela orientadora, foi utilizado um outro localizado neste link: https://api.itbook.store/#api-overview
 
-- Execute `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate Directive|pipe|service|class|guard|interface|enum|module`.
+## 💻 Tecnologias utilizadas
 
-### Construir
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Angular
+- bootstrap
 
-- Execute `ng build` para compilar o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
+### 📅 Data do Projeto:
 
-### Executando testes de unidade
+01 Ago 2022
+ 
+ ---------------------------
 
-- Execute `ng test` para executar os testes de unidade via [Karma](https://karma-runner.github.io).
-
-### Executando testes de ponta a ponta
-
-- Execute `ng e2e` para executar os testes de ponta a ponta por meio de uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente recursos de teste de ponta a ponta.
-
-### Mais ajuda
-
-- Para obter mais ajuda sobre a CLI Angular, use `ng help` ou confira a página [Visão Geral da CLI Angular e Referência de Comando](https://angular.io/cli).
+<p align="center">
+Feito com :hearts: por <a href="https://github.com/yasxxv">yasxxv</a>
