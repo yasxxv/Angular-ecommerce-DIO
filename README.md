@@ -1,6 +1,6 @@
 <img src="src/assets/img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
 
->🛒 Ecommerce BookStore em Angular
+>🛒 E-commerce BookStore em Angular
 
 ## ✏️ Sobre o projeto
 
